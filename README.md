@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, CSS framework**
 
-- My are of Interest's are **Web development atm**
+- My area of Interest is **Web development atm**
 
 - 📝 I regularly write articles on [https://twitter.com/itsHARBAOUI](https://twitter.com/itsHARBAOUI)
 
