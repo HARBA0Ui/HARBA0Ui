@@ -7,7 +7,7 @@ Front-End Developer
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [PersonalPortfolio](http://harbaouighaith.netlify.app/)
 * ✉️  You can contact me at [7arba0ui@gmail.com](mailto:7arba0ui@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning JavaScript atm
 
 <a href="https://www.twitter.com/HarbaouiGhaith" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HarbaouiGhaith?logo=twitter&style=for-the-badge&color=ffffff&labelColor=22272e"
