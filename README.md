@@ -1,7 +1,7 @@
 Hi 👋 My name is Harbaoui Ghaith
 ================================
 
-Front-End Developer
+Web Developer
 -------------------
 
 * 🌍  I'm based in Tunisia
