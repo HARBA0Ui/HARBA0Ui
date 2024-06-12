@@ -6,8 +6,8 @@ Web Developer
 
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [PersonalPortfolio](https://personal-portfolio-iota-eight.vercel.app/)
-* ✉️  You can contact me at [7arba0ui@gmail.com](mailto:7arba0ui@gmail.com)
-* 🧠  I'm learning JavaScript atm
+* ✉️  You can contact me at [secondghaith@gmail.com](mailto:secondghaith@gmail.com)
+* 🧠  Using MERN Stack and Next.js in my current projects
 
 <a href="https://www.twitter.com/HarbaouiGhaith" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HarbaouiGhaith?logo=twitter&style=for-the-badge&color=ffffff&labelColor=22272e"
