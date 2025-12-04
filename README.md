@@ -33,10 +33,10 @@ React | Next.js | Angular | React Native | Tailwind CSS | HTML | CSS | JavaScrip
 **Backend:**
 
 <p align="left">
-de><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-de><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express"></code>
-de><img height="27" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"></code>
-de><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" alt="symfony"></code>
+<img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express"></code>
+<img height="27" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"></code>
+<img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" alt="symfony"></code>
 </p>
 
 Node.js | Express.js | SpringBoot | Symfony
