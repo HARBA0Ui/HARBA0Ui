@@ -61,10 +61,8 @@ Full-Stack Developer with strong technical skills and hands-on experience buildi
 ### Socials
 
 <p align="left"> 
-<a href="https://www.codepen.io/Harbaoui_Ghaith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/Harba0ui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/harbaoui-ghaith-63260b1bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/HarbaouiGhaith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 <a href="https://www.twitter.com/HarbaouiGhaith" target="_blank" rel="noreferrer"><img
