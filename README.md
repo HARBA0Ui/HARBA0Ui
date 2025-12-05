@@ -1,5 +1,4 @@
 # Hi 👋 My name is Harbaoui Ghaith
-================================
 
 Full-Stack Developer | MERN Stack & Next.js Specialist
 -------------------
